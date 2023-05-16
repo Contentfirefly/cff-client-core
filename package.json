@@ -1,0 +1,25 @@
+{
+  "name": "@contentfirefly/core",
+  "version": "0.0.1",
+  "description": "Contentfirefly Core Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Contentfirefly/cff-client-core.git"
+  },
+  "keywords": [
+    "Contentfirefly",
+    "Cms",
+    "/",
+    "Core"
+  ],
+  "author": "Contentfirefly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Contentfirefly/cff-client-core/issues"
+  },
+  "homepage": "https://github.com/Contentfirefly/cff-client-core#readme"
+}
