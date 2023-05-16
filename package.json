@@ -1,11 +1,8 @@
 {
   "name": "@contentfirefly/core",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Contentfirefly Core Library",
-  "main": "dist/bundle.js",
-  "scripts": {
-    "build": "webpack --config webpack.config.js"
-  },
+  "main": "src/index.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Contentfirefly/cff-client-core.git"
@@ -26,9 +23,6 @@
     "@reduxjs/toolkit": "^1.9.5"
   },
   "devDependencies": {
-    "ts-loader": "^9.4.2",
-    "typescript": "^5.0.4",
-    "webpack": "^5.82.1",
-    "webpack-cli": "^5.1.1"
+    "typescript": "^5.0.4"
   }
 }
